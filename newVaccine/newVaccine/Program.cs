@@ -21,7 +21,7 @@ namespace newVaccine
             Console.Write("Date of birth: ");
             DOB = Console.ReadLine();
             Console.Write("Province: ");
-
+            //change
             province = Console.ReadLine();
             //comment
         }
