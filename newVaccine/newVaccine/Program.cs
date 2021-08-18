@@ -20,7 +20,6 @@ namespace newVaccine
             gender = Console.ReadLine();
             Console.Write("Date of birth: ");
             DOB = Console.ReadLine();
-
             Console.Write("Province: ");
 
             province = Console.ReadLine();
